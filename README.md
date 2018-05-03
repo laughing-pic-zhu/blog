@@ -1,6 +1,9 @@
 # blog
 朱建的个人博客
 
+## [Webpack](https://github.com/laughing-pic-zhu/blog/labels/Webpack) 
+1. [webpack源码分析之一：文件打包](https://github.com/laughing-pic-zhu/blog/issues/8)
+
 ## [Mvvm](https://github.com/laughing-pic-zhu/blog/labels/Mvvm) 
 1. [js对象监听实现](https://github.com/laughing-pic-zhu/blog/issues/3)
 2. [简易mvvm库的设计实现](https://github.com/laughing-pic-zhu/blog/issues/2)
