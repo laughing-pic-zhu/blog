@@ -6,6 +6,7 @@
 2. [webpack源码分析之二：code-splitting](https://github.com/laughing-pic-zhu/blog/issues/9)
 3. [webpack源码分析之三：loader](https://github.com/laughing-pic-zhu/blog/issues/10)
 4. [webpack源码分析之四：plugin](https://github.com/laughing-pic-zhu/blog/issues/11)
+5. [webpack源码分析之五：sourcemap](https://github.com/laughing-pic-zhu/blog/issues/12)
 
 ## [Mvvm](https://github.com/laughing-pic-zhu/blog/labels/Mvvm) 
 1. [js对象监听实现](https://github.com/laughing-pic-zhu/blog/issues/3)
