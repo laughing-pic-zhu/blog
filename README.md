@@ -1,5 +1,7 @@
 # blog
 朱建的个人博客
+## [Babel](https://github.com/laughing-pic-zhu/blog/labels/Babel) 
+1. [babel源码分析之一：AST生成](https://github.com/laughing-pic-zhu/blog/issues/14)
 
 ## [Webpack](https://github.com/laughing-pic-zhu/blog/labels/Webpack) 
 1. [webpack源码分析之一：文件打包](https://github.com/laughing-pic-zhu/blog/issues/8)
