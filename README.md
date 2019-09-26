@@ -1,5 +1,8 @@
 # blog
 朱建的个人博客
+## [Typescript](https://github.com/laughing-pic-zhu/blog/labels/Typescript) 
+1. [使用typescript开发前端组件](https://github.com/laughing-pic-zhu/blog/issues/15)
+
 ## [Babel](https://github.com/laughing-pic-zhu/blog/labels/Babel) 
 1. [babel源码分析之一：AST生成](https://github.com/laughing-pic-zhu/blog/issues/14)
 
